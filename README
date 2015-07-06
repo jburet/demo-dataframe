@@ -1,0 +1,9 @@
+A utiliser avec le dataset titanic de kaggle
+https://www.kaggle.com/c/titanic/data
+
+
+CSV Reader 
+
+https://github.com/databricks/spark-csv
+
+Teste avec Anaconda 2.2 et Spark 1.3.1
